@@ -87,7 +87,7 @@ h3 { min-height: 0; margin-bottom: 21px; font-family: "Montserrat", sans-serif; 
 .bottom-actions { display: flex; justify-content: space-between; align-items: center; padding: 28px 0 42px; background: var(--paper); }
 .drills-section { padding: 46px 0 88px; background: var(--paper); }
 .drills-list { display: grid; gap: 22px; }
-.drill-card { position: relative; padding: 27px 25px 28px; background: transparent; border: 1px solid var(--line); border-radius: 12px; }
+.drill-card { position: relative; padding: 27px 25px 28px; background: rgba(255, 253, 248, .82); border: 1px solid var(--line); border-radius: 12px; }
 .drill-card.completed { background: #e7f3ee; border-color: var(--teal); }
 .drill-number { margin-bottom: 22px; color: var(--coral); font-size: 13px; font-weight: 700; }
 .word-bank { display: flex; flex-wrap: wrap; gap: 10px; min-height: 52px; }
